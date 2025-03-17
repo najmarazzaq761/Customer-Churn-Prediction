@@ -21,7 +21,6 @@ Built with Python, SQL, Apache Airflow, and Power BI, this system automates data
 ✅ **Data Preprocessing & Cleaning** – Handle missing values, feature engineering, outlier detection  
 ✅ **Exploratory Data Analysis (EDA)** – RFM analysis, correlation analysis, customer segmentation  
 ✅ **Predictive ML Models** – Implement Logistic Regression, Decision Trees, Random Forest, XGBoost 
-✅ **NLP Sentiment Analysis** – Analyze customer reviews to detect dissatisfaction  
 ✅ **Customer Segmentation** – Apply K-Means & DBSCAN clustering for personalized engagement  
 ✅ **Automated Workflows** – Use Apache Airflow for scheduled data processing  
 ✅ **Interactive Dashboards** – Power BI reports with real-time churn insights  
