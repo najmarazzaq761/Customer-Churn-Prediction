@@ -36,6 +36,12 @@ Built with Python, SQL, Apache Airflow, and Power BI, this system automates data
 
 ---
 
+### Data Architecture Diagram:  
+
+![Data Architecture Diagram](https://github.com/dataseekho/eccomerce-churn-analysis/blob/main/images/Update%20E-commerce%20Customer%20Churn%20Analysis%20%26%20Prediction%20System.drawio.png)
+
+---
+
 ## 🛠️ **Tech Stack & Tools Used**  
 🚀 **Programming & Data Processing:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL)  
 📊 **Data Visualization:** Power BI, Matplotlib, Seaborn  
@@ -50,6 +56,7 @@ Built with Python, SQL, Apache Airflow, and Power BI, this system automates data
 📌 **Churn Prediction Dashboard** – Tracks churn risk & customer retention trends.  
 📌 **Customer Segmentation Dashboard** – Visualizes high-risk customers & engagement levels.  
 
+![Power BI Dashboard](https://github.com/dataseekho/eccomerce-churn-analysis/blob/main/images/Customer%20Segmentation%20Dashboard%20-%20Power%20BI.png)
 ---
 
 
