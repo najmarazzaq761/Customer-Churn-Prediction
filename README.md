@@ -47,11 +47,6 @@ Built with Python, SQL, Apache Airflow, and Power BI, this system automates data
 
 ---
 
-<img width="621" alt="customer_churn_analysis" src="https://github.com/user-attachments/assets/a6cb7b25-75c6-4bc5-b06d-8472f1616b6c" />
-
------
-
-<img width="619" alt="customer_churn_analysis2" src="https://github.com/user-attachments/assets/62d068f8-1daf-44fe-87f7-da99c97a75c9" />
 
 ## 🛠️ **Tech Stack & Tools Used**  
 🚀 **Programming & Data Processing:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL)  
@@ -69,7 +64,11 @@ Built with Python, SQL, Apache Airflow, and Power BI, this system automates data
 
 ![Power BI Dashboard](https://github.com/dataseekho/eccomerce-churn-analysis/blob/main/images/Customer%20Segmentation%20Dashboard%20-%20Power%20BI.png)
 ---
+<img width="621" alt="customer_churn_analysis" src="https://github.com/user-attachments/assets/a6cb7b25-75c6-4bc5-b06d-8472f1616b6c" />
 
+-----
+
+<img width="619" alt="customer_churn_analysis2" src="https://github.com/user-attachments/assets/62d068f8-1daf-44fe-87f7-da99c97a75c9" />
 
 
 ## 📂 **Project Structure**  
