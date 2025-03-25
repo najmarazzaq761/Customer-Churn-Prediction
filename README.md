@@ -1,5 +1,10 @@
 # 🚀 **E-commerce Customer Churn Analysis & Prediction System**  
 
+
+
+https://github.com/user-attachments/assets/6ca3f953-04e2-4bdb-b4a4-7c09dacb54b5
+
+
 This open-source **E-commerce Customer Churn Analysis & Prediction System** enables businesses to analyze customer behavior, predict churn, and take proactive actions using cutting-edge Machine Learning (ML) and Data Science techniques.  
 
 Built with Python, SQL, Apache Airflow, and Power BI, this system automates data processing, applies supervised & unsupervised learning, and presents insights via interactive dashboards.  
@@ -41,6 +46,12 @@ Built with Python, SQL, Apache Airflow, and Power BI, this system automates data
 ![Data Architecture Diagram](https://github.com/dataseekho/eccomerce-churn-analysis/blob/main/images/Update%20E-commerce%20Customer%20Churn%20Analysis%20%26%20Prediction%20System.drawio.png)
 
 ---
+
+<img width="621" alt="customer_churn_analysis" src="https://github.com/user-attachments/assets/a6cb7b25-75c6-4bc5-b06d-8472f1616b6c" />
+
+-----
+
+<img width="619" alt="customer_churn_analysis2" src="https://github.com/user-attachments/assets/62d068f8-1daf-44fe-87f7-da99c97a75c9" />
 
 ## 🛠️ **Tech Stack & Tools Used**  
 🚀 **Programming & Data Processing:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL)  
