@@ -151,6 +151,12 @@ streamlit run dashboard.py
 📢 Join discussions, suggest improvements, and collaborate with fellow contributors!  
 
 ---
+## ✍️ Author
+
+**Najma Razzaq**  
+BSCS Student | Data Scientist | [LinkedIn](https://www.linkedin.com/in/najmarazzaq)
+
+---
 
 ## 📜 **License**  
 This repository is licensed under the **MIT License** – feel free to use and modify, but give proper attribution!  
