@@ -152,16 +152,6 @@ streamlit run dashboard.py
 
 ---
 
-## 🌍 **Join the Data Seekho Community**  
-Stay updated with **Data Science & AI trends** and collaborate with like-minded professionals!  
-
-🌐 **Website** → [Data Seekho](https://dataseekho.com)  
-📌 **LinkedIn** → [Data Seekho](https://www.linkedin.com/company/dataseekhoo)  
-📺 **YouTube** → [Data Seekho](https://www.youtube.com/dataseekhoo)  
-📸 **Instagram** → [@dataseekhoo](https://www.instagram.com/dataseekhoo)  
-
----
-
 ## 📜 **License**  
 This repository is licensed under the **MIT License** – feel free to use and modify, but give proper attribution!  
 
