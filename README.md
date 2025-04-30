@@ -41,20 +41,11 @@ Built with Python, SQL, Apache Airflow, and Power BI, this system automates data
 
 ---
 
-### Data Architecture Diagram:  
-
-![Data Architecture Diagram](https://github.com/dataseekho/eccomerce-churn-analysis/blob/main/images/Update%20E-commerce%20Customer%20Churn%20Analysis%20%26%20Prediction%20System.drawio.png)
-
----
-
-
 ## 🛠️ **Tech Stack & Tools Used**  
-🚀 **Programming & Data Processing:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL)  
+🚀 **Programming & Data Processing:** Python, Pandas, NumPy
 📊 **Data Visualization:** Power BI, Matplotlib, Seaborn  
 🧠 **Machine Learning Models:** Logistic Regression, Random Forest, XGBoost, Deep Learning  
-📡 **Workflow Automation:** Apache Airflow, GitHub CI/CD  
 ⚡  **Interactive Dashboards:** Power BI reports with real-time churn insights
-📖 **NLP Sentiment Analysis:** Natural Language Toolkit (NLTK)  
 
 ---
 
@@ -99,8 +90,8 @@ Built with Python, SQL, Apache Airflow, and Power BI, this system automates data
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/DataSeekho/Ecommerce-Customer-Churn-Analysis.git
-cd Ecommerce-Customer-Churn-Analysis
+git clone [https://github.com/najmarazzaq761/Customer-Churn-Prediction-Using-ML.git
+cd Customer-Churn-Prediction-Using-ML
 ```
 
 ### 2️⃣ Install Dependencies  
@@ -134,7 +125,7 @@ streamlit run dashboard.py
 ---
 
 ## 🤝 **Contributing to This Project**  
-🚀 **We welcome contributions!** Whether it's adding new ML models, improving automation, or refining dashboards, your input is valuable.  
+🚀 **I welcome contributions!** Whether it's adding new ML models, improving automation, or refining dashboards, your input is valuable.  
 
 ### How to Contribute:  
 1. **Fork** this repository.  
